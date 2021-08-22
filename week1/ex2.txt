@@ -1,0 +1,431 @@
+    1  help
+    2  help
+    3  dir
+    4  cd Music
+    5  cls
+    6  dir
+    7  sudo apt-get install haskell-platform
+    8  ghc --version
+    9  cabal --version
+   10  ghci
+   11  dir
+   12  cd HaskellWork
+   13  ghci Main
+   14  cabal get criterion
+   15  cabal update
+   16  cabal --version
+   17  cabal install -j --disable-tests criterion
+   18  ghci
+   19  cd HaskellWork
+   20  ghci Main
+   21  ghc -O --make Fibber
+   22  ghc -O --make Main
+   23  dir
+   24  ./Main --output bench.html
+   25  dir
+   26  bench.html
+   27  ./bench.html
+   28  dir
+   29  reset
+   30  dir
+   31  r
+   32  cat bench.html
+   33  reset
+   34  ghc Main
+   35  ./Main --output bench.html
+   36  git --version
+   37  sudo apt install git
+   38  git -V
+   39  git --version
+   40  git clone https://github.com/fatawesome/pftime/blob/master/src/Data/Timeline/Naive.hs
+   41  git remote add origin https://github.com/fatawesome/pftime/blob/master/src/Data/Timeline/Naive.hs
+   42  git clone https://github.com/fatawesome/pftime.git
+   43  dir
+   44  ghci Main
+   45  cd ..
+   46  gedit
+   47  reset
+   48  cd HaskellWork
+   49  cd pftime\src\Data\Timeline
+   50  cd pftime
+   51  cd src
+   52  cd Data
+   53  cd Timeline
+   54  ghci Test
+   55  cd .. .. ..
+   56  cd ..
+   57  cd..
+   58  cd ..
+   59  reset
+   60  ghci Main
+   61  cd pftime
+   62  cd src
+   63  ghci Test
+   64  ghc -O --make Main
+   65  ghc -O --make Test
+   66  ./Test --output test.html
+   67  Test --output test.html
+   68  dir
+   69  ./Test
+   70  Test
+   71  reset
+   72  dir
+   73  ghc -O --make Test
+   74  Test --output test.html
+   75  ./Test --output test.html
+   76  dir
+   77  ./Test.hs --output test.html
+   78  ./Tests.hi --output test.html
+   79  dir
+   80  ./Tests.o --output test.html
+   81  ./Test.o --output test.html
+   82  reset
+   83  dir
+   84  ghc -O --make Test
+   85  ghc Test
+   86  ./Test --output fibber.html
+   87  dir
+   88  ./Test.hs --output fibber.html
+   89  ghc -O --make Fibber
+   90  ./Fibber --output fibber.html
+   91  ghc -O --make Test
+   92  ./Test --output test.html
+   93  ghci Test
+   94  ghc -O --make Test
+   95  ./Test --output test.html
+   96  ghci Test
+   97  reset
+   98  ghc -O --make Test
+   99  ./Test --output test.html
+  100  ghci Test
+  101  ghc -O --make Test
+  102  ./Test --output test.html
+  103  ghci Test
+  104  ghc -O --make Test
+  105  ./Test --output test.html
+  106  ghc -O --make Test
+  107  reser
+  108  reset
+  109  ghci
+  110  ghci Test
+  111  ghci
+  112  ghci Test
+  113  ghci
+  114  reset
+  115  ghci Test
+  116  resort
+  117  reset
+  118  ghci Test
+  119  reset
+  120  ghci Test
+  121  ghc -O --make Test
+  122  ./Test --output test.html
+  123  ghci Test
+  124  ghc -O --output Test
+  125  ghc -O --make Test
+  126  ./Test --output Test
+  127  ./Test --output test.html
+  128  ghc -O --make Test
+  129  ./Test --output results.html
+  130  sudo update-manager -c
+  131  git
+  132  reset
+  133  git checkout -b new
+  134  git checkout -b main
+  135  git --help
+  136  git init https://github.com/kolbasaegor/testBenchmark.git
+  137  git branch
+  138  dir
+  139  cd HaskellWrok
+  140  cd HaskellWork
+  141  git clone https://github.com/kolbasaegor/testBenchmark.git
+  142  git branch iss53
+  143  cd HaskellWork
+  144  cd pftime
+  145  cd Data
+  146  dir
+  147  cd test
+  148  dir
+  149  cd ..
+  150  vim
+  151  dir
+  152  cd HaskellWork
+  153  dir
+  154  del pftime
+  155  cls
+  156  clear
+  157  clr
+  158  clear
+  159  dir
+  160  rmdir pftime
+  161  rmdir pftime --ignore-fail-on-non-empty
+  162  dir
+  163  cd pftime
+  164  dir
+  165  cd ..
+  166  rm -r pftime
+  167  clear
+  168  dir
+  169  cd testBenchmark
+  170  dir
+  171  Test.hs
+  172  cd ..
+  173  git copy https://github.com/fatawesome/pftime.git
+  174  git
+  175  clear
+  176  git clone https://github.com/fatawesome/pftime.git
+  177  dir
+  178  cd pftime
+  179  cd benchmarks
+  180  ghci benchLazyMerge
+  181  cd ..
+  182  cd src
+  183  clear
+  184  ghci benchLazyMerge
+  185  cd HaskellWork
+  186  dir
+  187  cd pftime
+  188  cd src
+  189  cd Data
+  190  dir
+  191  cd Timeline
+  192  dir
+  193  ghci Lazy
+  194  clear
+  195  ghci
+  196  cd ..
+  197  ghci b
+  198  ghci Lazy
+  199  cd pftime
+  200  cd src
+  201  ghci ben.hs
+  202  clear
+  203  ghci ben.hs
+  204  clear
+  205  ghci ben.hs
+  206  ghci
+  207  cabal --version
+  208  cabal install random-strings
+  209  ghci
+  210  ghci ben.hs
+  211  ghc ben.hs
+  212  ghci ben.hs
+  213  cd pftime
+  214  cd src
+  215  ghci ben
+  216  ghc ben
+  217  ./ben --output results.html
+  218  ghc ben
+  219  ./ben --output results.html
+  220  ghci ben
+  221  ghci
+  222  whoami
+  223  hostname
+  224  bash
+  225  clear
+  226  echo
+  227  echo dagestan
+  228  man echo
+  229  --help
+  230  echo --help
+  231  ls --help
+  232  clear
+  233  man mkdir
+  234  man copy con
+  235  dir
+  236  nano a.txt
+  237  dir
+  238  a.txt
+  239  bash a.txt
+  240  ls a.txt
+  241  ls
+  242  cat a.txt
+  243  clear
+  244  head -n 3 a.txt
+  245  head -n 1 a.txt
+  246  nano t.txt
+  247  tail -n 3 t.txt
+  248  tail -n 4 t.txt
+  249  grep a t.txt
+  250  pwd
+  251  mkdir weak2
+  252  cd mkdir
+  253  cd weak2
+  254  cd ~
+  255  cd .
+  256  ls
+  257  ls > output.txt
+  258  ls
+  259  cat output.txt
+  260  ls | sort -r | tail -n 3
+  261  ls > sort -r  tail -n 3
+  262  ls | sort -r | tail -n 3
+  263  ls | sort -r 
+  264  ls | sort -r | tail -n 3
+  265  ls | tail -n 3 | sort
+  266  ls
+  267  rm a.txt
+  268  rf
+  269  nano 5
+  270  ls
+  271  cat 5
+  272  mv 5 6
+  273  ls
+  274  mv 6 .yaRotikEbal
+  275  ls
+  276  mv .yaRotikEbal s
+  277  ls
+  278  bg
+  279  mkdir week1
+  280  cd week1
+  281  ls > ex1.txt
+  282  ls
+  283  cd
+  284  cd /usr/bin
+  285  ls
+  286  grip gcc
+  287  grep gcc
+  288  grep gcc | head -n 3
+  289  cd
+  290  grep gcc
+  291  cd /usr/bin
+  292  grep gcc ex1.txt
+  293  grep gcc /usr/bin ex1.txt
+  294  cd
+  295  ls
+  296  cat outpu
+  297  cat output.txt 
+  298  grep me output.txt 
+  299  cd /usr/bin
+  300  ls > t.txt
+  301  ls > a.txt
+  302  ls > aueVor2228.txt
+  303  sudo ls > aueVor2228.txt
+  304  ls
+  305  grep gcc
+  306  cd
+  307  nano ex3.sh
+  308  sh ex3.sh
+  309  nano t.c
+  310  gcc t.c
+  311  nano t.c
+  312  gcc t.c
+  313  nano t.c
+  314  gcc t.c
+  315  nano t.c
+  316  gcc t.c
+  317  ls
+  318  gcc t.c && a
+  319  gcc t.c && s
+  320  gcc t.c && a.out
+  321  gcc t.c && cat a.out
+  322  whoami
+  323  hostname
+  324  ls
+  325  rm a.out
+  326  rm ex3.sh
+  327  rm output.txt
+  328  rm s
+  329  rm sort
+  330  rm t.txt
+  331  rm t.c
+  332  ls
+  333  rm -r week1
+  334  rm -r weak2
+  335  ls
+  336  clr
+  337  clear
+  338  mkdir week1
+  339  cd week1
+  340  cd /usr/bin
+  341  ls > usrbin.txt
+  342  ls > abcd.txt
+  343  sudo bash -c ls > abcd.txt
+  344  ls > egorDagAue.txt
+  345  ls -l
+  346  nano abcd.txt
+  347  cat abcd.txt
+  348  cd
+  349  ls
+  350  cd Documents
+  351  ls
+  352  cd
+  353  clear
+  354  ls > abc.txt
+  355  ls
+  356  cat abc
+  357  cat abc.txt
+  358  grep gcc abc.txt | sort -r
+  359* grep me abc.txt | sort -r >
+  360  cd week1
+  361  cd usr/bin
+  362  cd usr/bin/
+  363  cd /usr/bin
+  364  cd
+  365  ls
+  366  clear
+  367  sudo su
+  368  cd /usr/bin
+  369  clear
+  370  ls > abc.txt
+  371  grep gcc abc.txt | sort -r
+  372  grep gcc abc.txt | sort -r > ex1.txt
+  373  cat ex1.txt
+  374  mv ex1.txt /week1
+  375  cd
+  376  clear
+  377  ls
+  378  mv /usr/bin/ex1.txt /week1
+  379  mv /usr/bin/ex1.txt /week1/ex1.txt
+  380  sudo mv /usr/bin/ex1.txt /week1
+  381  cd week1
+  382  ls
+  383  cd
+  384  sudo mv /usr/bin/ex1.txt week1
+  385  cd /usr/bin
+  386  cat ex1.txt
+  387  cd
+  388  cd /week1
+  389  clear
+  390  ls
+  391  mv ~/abc.txt ~/Music
+  392  ls
+  393  cd Music
+  394  ls
+  395  rm abc.txt
+  396  cd
+  397  cd /usr/bin
+  398  rm abc.txt
+  399  ls > abc.txt
+  400  grep gcc abc.txt | sort -r > ex1.txt
+  401  cat ex1.txt
+  402  mv ./ex1.txt ~/
+  403  cat ex1.txt
+  404  cd
+  405  ls
+  406  cat ex1.txt
+  407  clear
+  408  git clone https://github.com/kolbasaegor/OSLabs.git
+  409  ls
+  410  mv ./ex1.txt ./OSLabs
+  411  cd OSLabs
+  412  ls
+  413  cat ex1.txt
+  414  git commit -m "First commit"
+  415  git config --global user.name "kolbasaegor"
+  416  ls
+  417  git push origin master
+  418  git init
+  419  git add .
+  420  ls
+  421  git commit -m "First commit"
+  422  git remote -v
+  423  git remote add https://github.com/kolbasaegor/OSLabs.git
+  424  git push origin master
+  425  clear
+  426  ls
+  427  cat ex1.txt
+  428  cd OSLabs
+  429  whoami
+  430  hostname
+  431  history > ex2.txt
